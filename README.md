@@ -1,6 +1,8 @@
 # imsong7.github.io
 
+#### Technical Skills: Python, SQL, JAVA
+
 ### Education
-Physics and Astronomy, AI BS
+B.S. in Physics & Astronomy and AI | Sejong University (Feb, 2026)
 
 ### Projects
