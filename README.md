@@ -10,6 +10,7 @@ B.S. in Physics & Astronomy and AI | Sejong University (Feb, 2026)
 - Conduct research on early universe modeling using Graph Neural Networks (GNN).
 - Analyze and process astronomical data to enhance understanding of cosmological phenomena.
 - Collaborate with researchers to develop machine learning models for astrophysical applications.
+
 #### EXCHANGE STUDENT | THE HAGUE UNIVERSITY OF APPLIED SCIENCES | FALL 2024 (JUNIOR YEAR, 2ND SEMESTER)
 - Participated in a european project semester focused on real-world problem-solving.
 - Worked on a project to improve crosswalk environments for visually impaired individuals.
