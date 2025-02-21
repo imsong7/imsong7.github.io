@@ -25,4 +25,9 @@
 #### Cicadas Sound Detection (AUGUST 2023 - NOVEMBER 2023)
 - Trained ResNet50 to classify cicada calls from audio data.  
 - Preprocessed data (WAV conversion, STFT spectrograms, resizing, augmentation).  
-- Achieved **94.17% accuracy** with an **F1 score of 0.89**, despite some label imbalance.  
+- Achieved **94.17% accuracy** with an **F1 score of 0.89**, despite some label imbalance.
+
+#### US Election Analysis (JUNE 2024 - NOVEMBER 2024)
+- Analyzed U.S. federal election results from 1988 to 2020 to identify swing states.
+- Preprocessed data, applied scaling, and used PCA and t-SNE for dimensionality reduction and trend visualization.
+- Identified [Wisconsin, Florida, Pennsylvania, North Carolina, Nevada, Michigan, Arizona] as swing states based on both popular vote and electoral vote trends.
