@@ -1,9 +1,9 @@
-# Data Analysist
+# Data Analyst
 
-#### Technical Skills: Python, SQL, JAVA
+#### Technical Skills: Python (Pandas, NumPy, Matplotlib, PyTorch), SQL, JAVA
 
 ### Education
-B.S. in Physics & Astronomy and AI | Sejong University (Feb, 2026)
+**B.S. in Physics & Astronomy and AI** | Sejong University (Feb, 2026)
 
 ### Experience
 #### UNDERGRADUATE RESEARCHER | COSMOLOGY RESEARCH LAB, SEJONG UNIVERSITY | AUGUST 2024 – PRESENT
@@ -18,12 +18,11 @@ B.S. in Physics & Astronomy and AI | Sejong University (Feb, 2026)
 
 ### Projects
 #### Hotel Review Sentiment Classification (MAY 2023 - JUNE 2023)
-- This project analyzes hotel reviews from TripAdvisor to predict sentiment using deep learning models.
-- Data preprocessing includes normalization, morpheme analysis, stopword removal, and tokenization.
-- The CNN model achieved 89.77% accuracy, while the LSTM model performed slightly better at 91.08%.
+- Analyzed TripAdvisor hotel reviews to predict sentiment using deep learning models.  
+- Preprocessed data via normalization, morpheme analysis, stopword removal, and tokenization.  
+- Achieved **89.77% accuracy** with CNN and **91.08% accuracy** with LSTM. 
   
 #### Cicadas Sound Detection (AUGUST 2023 - NOVEMBER 2023)
-- This project trains ResNet50 to classify cicada calls from audio data.
-- After preprocessing (WAV conversion, STFT spectrograms, resizing, and augmentation), the model achieved 94.17% accuracy with an F1 score of 0.89.
-- The confusion matrix showed some label imbalance, but the model performed well overall.
-- The approach can also be applied to classify other insect and animal sounds.
+- Trained ResNet50 to classify cicada calls from audio data.  
+- Preprocessed data (WAV conversion, STFT spectrograms, resizing, augmentation).  
+- Achieved **94.17% accuracy** with an **F1 score of 0.89**, despite some label imbalance.  
