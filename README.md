@@ -20,7 +20,7 @@
 #### Hotel Review Sentiment Classification (MAY 2023 - JUNE 2023)
 - Analyzed TripAdvisor hotel reviews to predict sentiment using deep learning models.  
 - Preprocessed data via normalization, morpheme analysis, stopword removal, and tokenization.  
-- Achieved *89.77% accuracy* with *CNN* and *91.08% accuracy* with *LSTM*. 
+- Achieved *89.77% accuracy* with **CNN** and *91.08% accuracy* with **LSTM**. 
   
 #### Cicadas Sound Detection (AUGUST 2023 - NOVEMBER 2023)
 - Trained **ResNet50** to classify cicada calls from audio data.  
