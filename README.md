@@ -3,7 +3,7 @@
 #### Technical Skills: Python (Pandas, NumPy, Matplotlib, PyTorch), SQL, JAVA
 
 ## Education
-**B.S. in Physics & Astronomy and AI** | Sejong University (Feb, 2026)
+**B.S., Physics & Astronomy and AI** | Sejong University (Feb, 2026)
 
 ## Experience
 #### UNDERGRADUATE RESEARCHER | COSMOLOGY RESEARCH LAB, SEJONG UNIVERSITY | AUGUST 2024 – PRESENT
