@@ -19,7 +19,7 @@ Currently working on early universe modeling using Graph Neural Networks and dev
 **B.S. in Physics & Astronomy and Artificial Intelligence**  
 Sejong University, Seoul, South Korea (Expected Feb 2026)
 
----
+
 
 ## 🧪 Experience
 ### Cosmology Research Lab, Sejong University — *Undergraduate Researcher*  
@@ -34,7 +34,7 @@ Sejong University, Seoul, South Korea (Expected Feb 2026)
 - Developed user-centered solutions to improve **urban accessibility** for visually impaired individuals.  
 - Conducted interviews, prototyping, and final presentation to stakeholders.
 
----
+
 
 ## 💻 Projects
 
@@ -59,7 +59,6 @@ Sejong University, Seoul, South Korea (Expected Feb 2026)
 
 
 
----
 
 ## 🌱 Goals
 
