@@ -11,8 +11,7 @@ Currently working on early universe modeling using Graph Neural Networks and dev
 
 ## 🛠 Technical Skills
 
-**Languages**: Python, SQL, Java  
-**Libraries**: Pandas, NumPy, Matplotlib, PyTorch  
+**Languages**: Python(scikit learn, pytorch), SQL, Java  
 **Tools**: Git, Tableau, Jupyter, VS Code  
 
 
@@ -24,7 +23,7 @@ Sejong University, Seoul, South Korea (Expected Feb 2026)
 
 ## 🧪 Experience
 ### Cosmology Research Lab, Sejong University — *Undergraduate Researcher*  
-**Aug 2024 – Present**  
+**Jul 2024 – Present**  
 - Modeling the early universe with **Graph Neural Networks (GNN)**.
 - Processing 3D astronomical simulation data and training GNN-based classifiers.
 - Collaborating with PhD researchers on scientific ML methods.
