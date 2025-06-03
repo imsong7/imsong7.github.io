@@ -11,13 +11,12 @@ Currently working on early universe modeling using Graph Neural Networks and dev
 
 ## 🛠 Technical Skills
 
-**Languages**: Python(scikit learn, pytorch), SQL, Java  
-**Tools**: Git, Tableau, KNIME, Jupyter, Streamlit
+**Languages**: Python(Scikit-Learn, Pytorch), SQL, Java  
+**Tools**: Git, Jupyter, Tableau, KNIME, Streamlit
 
 
 ## 🎓 Education
-**B.S. in Physics & Astronomy and Artificial Intelligence**  
-Sejong University, Seoul, South Korea (Expected Feb 2026)
+**B.S. in Physics & Astronomy and Artificial Intelligence** | Sejong University, Seoul, South Korea (Expected Feb 2026)
 
 
 
