@@ -46,7 +46,7 @@ Sejong University, Seoul, South Korea (Expected Feb 2026)
 
 ### 🐞 Cicadas Sound Detection  
 *Aug – Nov 2023*  
-[View Code](#) | [Spectrogram Samples](#)  
+[View Code](https://github.com/imsong7/project/blob/main/cicadas_sound_detection/using_model.py) | [Spectrogram Samples](#)  
 - Converted cicada sound recordings into **STFT spectrograms**.  
 - Trained **ResNet50** and achieved **94.17% accuracy**, **F1 = 0.89**.  
 - Managed imbalanced classes with data augmentation.
