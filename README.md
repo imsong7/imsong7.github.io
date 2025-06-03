@@ -12,7 +12,7 @@ Currently working on early universe modeling using Graph Neural Networks and dev
 ## 🛠 Technical Skills
 
 **Languages**: Python(scikit learn, pytorch), SQL, Java  
-**Tools**: Git, Tableau, KNIME, Jupyter, streamlit
+**Tools**: Git, Tableau, KNIME, Jupyter, Streamlit
 
 
 ## 🎓 Education
