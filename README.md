@@ -9,18 +9,18 @@ Currently working on early universe modeling using Graph Neural Networks and dev
 
 📫 Contact: songsoo409@gmail.com | [LinkedIn](https://www.linkedin.com/in/sooyeoun-song-788092209/)
 
-## 🛠 Technical Skills
+## Technical Skills
 
 **Languages**: Python(Scikit-Learn, Pytorch), SQL, Java  
 **Tools**: Git, Jupyter, Tableau, KNIME, Streamlit
 
 
-## 🎓 Education
+## Education
 **B.S. in Physics & Astronomy and Artificial Intelligence** | Sejong University, Seoul, South Korea (Expected Feb 2026)
 
 
 
-## 🧪 Experience
+## Experience
 ### Cosmology Research Lab, Sejong University — *Undergraduate Researcher*  
 **Jul 2024 – Present**  
 - Modeling the early universe with **Graph Neural Networks (GNN)**.
@@ -41,7 +41,7 @@ Currently working on early universe modeling using Graph Neural Networks and dev
 - Researched and analyzed error cases in AI model outputs to enhance translation accuracy
 
 
-## 💻 Projects
+## Projects
 
 ### 🏨 Hotel Review Sentiment Classification  
 *May – June 2023*  
@@ -65,7 +65,7 @@ Currently working on early universe modeling using Graph Neural Networks and dev
 
 
 
-## 🌱 Goals
+## Goals
 
 - Pursuing Master's degree or global internship opportunities in **Data Science / AI / Scientific Computing**
 - Currently exploring research + real-world projects involving GNNs, NLP, time series, and civic tech.
