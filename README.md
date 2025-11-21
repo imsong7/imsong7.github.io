@@ -56,7 +56,7 @@ Currently working on early universe modeling using Graph Neural Networks and dev
 - Trained **ResNet50** and achieved **94.17% accuracy**, **F1 = 0.89**.  
 - Managed imbalanced classes with data augmentation.
 
-### 🇺🇸 US Election Swing State Analysis  
+### US Election Swing State Analysis  
 *Jun – Nov 2024*  
 [View Code](#)  
 - Analyzed US federal election data from 1988–2020 using **PCA and t-SNE**.  
