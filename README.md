@@ -33,6 +33,12 @@ Currently working on early universe modeling using Graph Neural Networks and dev
 - Developed user-centered solutions to improve **urban accessibility** for visually impaired individuals.  
 - Conducted interviews, prototyping, and final presentation to stakeholders.
 
+### Data Project Manager Intern | Flitto Inc.
+
+*August 2025 – Present  (Expected Dec 2025)*
+
+- Translated and managed multilingual benchmark datasets to improve model evaluation quality
+- Researched and analyzed error cases in AI model outputs to enhance translation accuracy
 
 
 ## 💻 Projects
