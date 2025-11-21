@@ -1,5 +1,5 @@
 # Data Analyst
-# 👋 Hi, I'm Sooyeoun Song
+## 👋 Hi, I'm Sooyeoun Song
 
 I'm an AI & Physics undergraduate passionate about using data to solve real-world and scientific problems.  
 Currently working on early universe modeling using Graph Neural Networks and developing data-driven solutions across NLP, audio, and political datasets.
